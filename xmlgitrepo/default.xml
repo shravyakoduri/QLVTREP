@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+    <remote name="origin"
+            fetch="https://github.com/" />
+
+    <default remote="origin"
+             revision="main" />
+
+    <project name="example/frameworks"
+             path="frameworks" />
+
+    <project name="example/system"
+             path="system" />
+
+    <project name="example/hardware"
+             path="hardware" />
+
+</manifest>
